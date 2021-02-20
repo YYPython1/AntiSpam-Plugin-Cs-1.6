@@ -1,1 +1,3 @@
-# AntiSpam-Plugin-Cs-1.6
+# AntiSpam plugin cs 1.6 
+
+Just a simple plugin that block a spamming messages into chat... 
