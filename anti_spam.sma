@@ -6,7 +6,7 @@
 #define VERSION "1.0"
 #define AUTHOR "YYPython1^"
 
-new sacekaj[33]
+new wait[33]
 
 public plugin_init() {
 	register_plugin(PLUGIN, VERSION, AUTHOR)
